@@ -2,7 +2,7 @@
 title: "Cloudflare Enterprise Addon on xCloud: A Deeper Look Into the Speed & Security Features"
 description: "A practical guide to comparing managed WordPress hosting: what the plans include, which limits matter and how to judge real-world speed."
 slug: "cloudflare-enterprise-addon-on-xcloud-a-deeper-look-into-the-speed-security-feat"
-date: 2026-08-07T20:46:40.975Z
+date: 2026-08-07T20:53:52.859Z
 draft: false
 keywords: ["cloudflare enterprise", "cloudflare"]
 ---

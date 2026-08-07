@@ -1,0 +1,14 @@
+{
+  "name": "draftbook",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A minimal, dependency-free static blog generator.",
+  "scripts": {
+    "build": "node src/build.js",
+    "dev": "node src/serve.js",
+    "new": "node src/new-post.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
